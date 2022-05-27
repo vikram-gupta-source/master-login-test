@@ -3,7 +3,7 @@
 Project Running Guide or
 Steps :
 <br>
-Step 1 Download the Zip "test.zip" and UnZip to Xampp htdocs Folder
+Step 1 Download the rar "test.rar" and UnZip to Xampp htdocs Folder
 <br>
 Step 2 Create database with the name "master-user-login"
 <br>
